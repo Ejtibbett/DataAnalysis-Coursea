@@ -1,2 +1,2 @@
-# DataAnalysis-Coursea
-This is for completing a Coursea course
+# DataAnalysis-Coursera
+This is for completing a Coursera course
